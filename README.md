@@ -137,7 +137,7 @@ Highlights:
 Relevant coursework: Data Structures, Algorithms, Web Development, Software Engineering
 
 ---
-##Leadership
+## Leadership
 
 **Vice-President (SERES) – Social outreach organization**
 Led projects supporting vulnerable communities and developing student leadership.
