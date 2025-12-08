@@ -10,7 +10,7 @@ Currently improving my JavaScript, TypeScript, and React expertise while activel
 
 # Featured Projects
 
-## 🏥 ARIA Salud — Healthcare Management Platform *(Private Code)*
+## 🏥 ARIA Salud — Healthcare Management Platform *(Private Code in bitbucket so no reflection on the commits in Github)*
 **Next.js 15 • TypeScript • AWS Cognito • Tailwind • AWS API**
 
 A production-ready medical software platform designed for doctors to manage patients, consultations, and clinical workflows.  
