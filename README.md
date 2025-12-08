@@ -1,127 +1,153 @@
-# Hi, I'm David Ruiz 👋  
-**Full-Stack Developer | Next.js • TypeScript • Kotlin | Building scalable, real-world applications**
-
-I'm a Systems Engineering graduate focused on creating clean, maintainable, and production-ready software.  
-I enjoy building real products used by real users — from healthcare platforms to booking systems and mobile applications.
-
-Currently improving my JavaScript, TypeScript, and React expertise while actively seeking a full-time role in a global development team.
+# 👋 Hi, I'm **David Ruiz**  
+### Full-Stack Developer · Android Developer · Problem Solver  
+Medellín, Colombia · [LinkedIn](https://www.linkedin.com/in/davidruize) · [GitHub](https://github.com/DavidRuizE) · david02ruiz@hotmail.com
 
 ---
 
-# Featured Projects
-
-## 🏥 ARIA Salud — Healthcare Management Platform *(Private Code in bitbucket so no reflection on the commits in Github)*
-**Next.js 15 • TypeScript • AWS Cognito • Tailwind • AWS API**
-
-A production-ready medical software platform designed for doctors to manage patients, consultations, and clinical workflows.  
-I developed the entire frontend, integrating secure authentication, protected routes, patient module, consultation flow, dashboards, and settings.
-
-*Codebase is private due to sensitive medical data.*  
-🔗 **Production:** https://ariasalud.com (login required)  
-*AI-assisted medical documentation feature currently in development.*
+## 🧭 Navigation
+[About Me](#-about-me) •  
+[Skills](#-skills) •  
+[Projects](#-projects) •  
+[Experience](#-experience) •  
+[Contact](#-contact)
 
 ---
 
-##  Bike Reservation System — Full-Stack Web Application
-**Next.js 15 • TypeScript • Tailwind • Drizzle ORM • PostgreSQL • NextAuth**
+## 🚀 About Me
 
-A complete bicycle reservation system with full authentication, real-time bike availability, admin dashboard, CRUD operations, and a clean SOLID-based architecture.
+I'm a **Full-Stack & Mobile Developer** with real-world experience building production-grade applications using **Next.js, TypeScript, React, Kotlin, and Clean Architecture**.
 
-🔗 **Live Demo:** https://prueba-tecnica-one-omega.vercel.app/  
-🔗 **Repository:** https://github.com/DavidRuizE/bike-reservation-system
+I recently completed a software internship at **Globant**, where I worked on Android apps using Kotlin, Jetpack Compose, SOLID principles, and modern architecture patterns.  
+I enjoy building clean, scalable, well-structured solutions and collaborating in fast-moving teams.
 
-Main Highlights:
-- Authentication with NextAuth + bcrypt  
-- Real-time bike availability  
-- Admin dashboard + full CRUD  
-- Smart filtering & reservation validation  
-- Clean architecture with service layers  
+I’ve built:
 
----
+- A **production medical platform** used by doctors (ARIA Salud)  
+- A **full-stack bike reservation system** with real-time features  
+- An **Android IMDb app** using MVVM + Retrofit
 
-## IMDb Android App — Movie Browser (Kotlin + MVVM)
-**Kotlin • Android Studio • MVVM • Retrofit • Clean Architecture**
-
-A modern Android app to browse and explore movies, built with clean architecture principles and modular MVVM structure.  
-Includes networking with Retrofit, Flow/Coroutines, navigation, and efficient UI components.
-
-🔗 **Repository:** https://github.com/DavidRuizE/IMDb-Android
-
-Key Features:
-- Movie listing + detail screens  
-- Retrofit + Coroutines  
-- Glide/Coil image loading  
-- Strong separation of concerns  
-- Jetpack Navigation  
+I'm passionate about delivering high-quality code, learning fast, and contributing to meaningful products.
 
 ---
 
-# Tech Stack
+## 🛠 Skills
 
 ### **Frontend**
-- Next.js 15 • React 19  
-- TypeScript  
-- Tailwind CSS 4 • shadcn/ui  
-- React Hook Form • Zod  
-- Zustand  
-- Recharts  
+- Next.js · React · TypeScript · JavaScript  
+- Tailwind CSS · React Hook Form · Zod  
+- Client-side state (Zustand)
 
 ### **Backend**
-- REST APIs
-- Express.js
-- Prisma Database
-- Drizzle ORM  
-- PostgreSQL  
-- AWS API Gateway & Lambda (via backend team)  
+- REST APIs · Node.js · Express  
+- Drizzle ORM · PostgreSQL  
+- AWS API consumption
 
 ### **Mobile**
-- Kotlin  
-- Android Studio  
-- MVVM • Clean Architecture  
-- Jetpack Components  
+- Kotlin · Android Studio  
+- MVVM · Retrofit · Coroutines  
+- Jetpack Compose
 
-### **Tools**
-- Git & GitHub/Bitbucket  
-- AWS Cognito  
-- Vercel  
-- Figma  
-- ESLint • Prettier  
+### **Tools & DevOps**
+- Git · GitHub · Bitbucket · Vercel  
+- AWS Cognito · ESLint · Prettier  
+- Agile / Scrum
 
 ---
 
-# Experience
+## 🚧 Projects
 
-### **Frontend Developer — ARIA Salud (Ongoing Project)**
-- Lead frontend engineer for a production healthcare platform  
-- Built patient management, consultation flow, dashboards, and secure auth  
-- Integrated AWS Cognito + protected route system  
-- Connected frontend to AWS backend API  
-- Working on AI-assisted medical documentation  
+### **1. ARIA Salud — Medical Platform (Production)**
+**Next.js 15 · TypeScript · AWS Cognito · Tailwind · Secure API Integration**
 
-### **Full-Stack Developer Intern — Globant**
-- Built Android features using Kotlin, MVVM, and Jetpack  
-- Applied clean architecture and multi-module patterns  
-- Collaborated within an agile team  
+A real production healthcare platform used by doctors.  
+I served as **lead frontend developer**, owning:
 
-### **Bilingual Support Agent — Solvo Global**
-- English communication (B2)  
-- Problem-solving under pressure  
-- Customer support for Spirit Airlines  
+- Patient management  
+- Consultation workflow  
+- Doctor dashboard  
+- Secure login (Cognito)  
+- API consumption through AWS endpoints  
+- Protected routes, forms, validation, and responsive UI  
+
+🔐 *Production:* https://ariasalud.com (Login required)
 
 ---
 
-# 🎓 Education
-**Systems Engineering (Computer Science) — Universidad EAFIT**  
-From July 2020 to December 2025
+### **2. Bike Reservation System — Full-Stack Web App**  
+**Next.js 15 · TypeScript · Drizzle ORM · PostgreSQL · NextAuth**
+
+A complete reservation system with full CRUD and real-time logic.
+
+Features:
+- User authentication (NextAuth)  
+- Admin panel for stations, bikes, users  
+- Real-time availability  
+- Duplicate reservation prevention  
+- Typed API service layer  
+- Clean project architecture (DTOs, services, schemas)
+
+🌐 **Live Demo:** https://prueba-tecnica-one-omega.vercel.app  
+📂 **Repo:** https://github.com/DavidRuizE/bike-reservation-system
 
 ---
 
-# 📫 Contact  
-📧 **davidruize17@gmail.com**  
-🔗 GitHub: https://github.com/DavidRuizE  
-🔗 LinkedIn: https://www.linkedin.com/in/davidruize/
+### **3. IMDb Android App — Kotlin + MVVM**
+**Kotlin · MVVM · Retrofit · Coroutines · Clean Architecture**
+
+A modern Android app to browse and explore movies.
+
+Highlights:
+- MVVM + Repository Pattern  
+- Retrofit networking  
+- Domain/UI layer separation  
+- Poster and details view  
+- Clean, scalable architecture
+
+📂 **Repo:** https://github.com/DavidRuizE/IMDb-Android
 
 ---
 
-> “I build clean, reliable, and scalable software — and I’m always learning.”
+## 💼 Experience
+
+### **Software Developer Intern – Globant**  
+*June 2024 – January 2025 | Medellín, Colombia*  
+- Built Android apps using **Kotlin, Java, Jetpack Compose, XML**  
+- Applied **SOLID** and **Clean Architecture**  
+- Consumed REST APIs with Retrofit  
+- Implemented local storage with Room  
+- Collaborated in Agile teams  
+- Improved app performance and resolved technical issues  
+
+---
+
+## 🎓 Education
+
+**EAFIT University — Bachelor in Computer Science**  
+*2020 – 2025*  
+Courses: Data Structures, Algorithms, Software Engineering, Web Development
+
+---
+
+## 🌎 Languages
+- Spanish — Native  
+- English — C2 Proficient (EF Certified)  
+- French — Basic  
+
+---
+
+## 🤝 Leadership
+**Vice-President (SERES) – Social outreach organization**  
+Led projects supporting vulnerable communities and developing student leadership.
+
+---
+
+## 📬 Contact
+
+If you'd like to collaborate or discuss an opportunity:
+
+📧 **Email:** david02ruiz@hotmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/davidruize  
+🐙 **GitHub:** https://github.com/DavidRuizE
+
+---
 
