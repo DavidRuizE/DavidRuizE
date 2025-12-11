@@ -7,7 +7,7 @@
  
 Medellín, Colombia  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/davidruize) • 🔗 [GitHub](https://github.com/DavidRuizE) • [Portfolio](https://davidruize.github.io/portfolio/) • 📧 david02ruiz@hotmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/davidruize) • 🔗 [GitHub](https://github.com/DavidRuizE) • 🔗 [Portfolio](https://davidruize.github.io/portfolio/) • 📧 david02ruiz@hotmail.com
 
 </div>
 
